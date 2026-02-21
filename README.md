@@ -147,14 +147,20 @@ This dashboard helps stakeholders:
 ✔️ Insights Generated  
 
 ---
+## 📷Screenshots
+<img width="1344" height="769" alt="image" src="https://github.com/user-attachments/assets/ebdfe4f3-c094-4d5d-b9ba-30bc7494c28b" />
+<img width="1346" height="771" alt="image" src="https://github.com/user-attachments/assets/230cad39-8124-4bbf-99b0-379731818fdc" />
+<img width="1337" height="743" alt="image" src="https://github.com/user-attachments/assets/49e58c81-0f43-406a-8894-1856e354b718" />
+<img width="1342" height="769" alt="image" src="https://github.com/user-attachments/assets/3fdcc45e-f4c2-46c9-bd41-313a67dbee35" />
+<img width="1332" height="753" alt="image" src="https://github.com/user-attachments/assets/7ebb419e-423d-4be3-af2b-44f78330ddfb" />
 
+----
 ## 👨‍💻 Author
 
 **Agamveer Singh Modi**  
 B.Tech Information Technology  
 Aspiring Data Analyst & Business Analyst | Power BI Developer  
 
----
 
-📷 Screenshots
+
 
